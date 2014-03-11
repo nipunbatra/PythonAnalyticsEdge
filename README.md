@@ -8,3 +8,5 @@ for the stuff tought in the MIT EDX offering on the Analytics Edge
 
 # Week 2
 * [Lecture-Wine](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/blob/master/week_2/lecture/wine.ipynb?create=1)
+* [Lecture-Baseball](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/blob/master/week_2/lecture/baseball.ipynb?create=1)
+* [Recitation](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/blob/master/week_2/recitation.ipynb?create=1)
