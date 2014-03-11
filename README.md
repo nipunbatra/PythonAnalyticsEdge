@@ -5,3 +5,6 @@ for the stuff tought in the MIT EDX offering on the Analytics Edge
 
 * [Working with R](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/tree/master/week_1/working_with_r/)
 * [Tutorial](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/tree/master/week_1/recitation/)
+
+# Week 2
+* [Lecture-Wine](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/blob/master/week_2/lecture/wine.ipynb?create=1)
