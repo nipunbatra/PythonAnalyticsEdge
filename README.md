@@ -1,5 +1,15 @@
+
 This repository is meant for creating IPython notebooks containing equivalent Python/NumPy/Pandas code 
-for the stuff tought in the MIT EDX offering on the Analytics Edge
+for the stuff tought in the MIT EDX offering on the [Analytics Edge](https://www.edx.org/course/mitx/mitx-15-071x-analytics-edge-1416)
+
+Packages used
+-------------
+
+1. Pandas
+2. NumPy
+3. Matplotlib
+4. mpltools
+5. Statsmodels
 
 # Week 1 
 
