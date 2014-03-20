@@ -22,3 +22,4 @@ for the stuff tought in the MIT EDX offering on the [Analytics Edge](https://www
 
 #### Week 3
 * [Lecture-Expert](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/blob/master/week_3/lecture/expert.ipynb?create=1)
+* [Lecture-Heart](http://nbviewer.ipython.org/github/nipunreddevil/PythonAnalyticsEdge/blob/master/week_3/lecture/heart.ipynb?create=1)
